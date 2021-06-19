@@ -3,7 +3,7 @@
 ## e-commerce-be is a the back end for an e-commerce site that stores data including information about products and product tags. 
 The application uses Sequelize to interact with a MySQL database to implement CRUD methods. 
 
-Demo/ walkthrough video of using Insomnia to test routes: 
+Demo/ walkthrough video of using Insomnia to test routes: https://drive.google.com/file/d/1entMEssnfSXTK7Nng_VzK1SpdpGnv9Qg/view
 
 
 ![image](https://user-images.githubusercontent.com/79875711/122644178-8c952f80-d0d9-11eb-838a-a6988dd4668f.png)
